@@ -9,7 +9,7 @@ element.textContent = JSON.stringify({
         'revelryengine/ecs/'                 : 'https://cdn.jsdelivr.net/gh/revelryengine/ecs@v0.1.0-alpha/',
         'revelryengine/core/'                : 'https://cdn.jsdelivr.net/gh/revelryengine/core@v0.1.0-alpha/',
         'revelryengine/gltf/'                : 'https://cdn.jsdelivr.net/gh/revelryengine/gltf@v0.1.0-alpha/',
-        'revelryengine/renderer/'            : 'https://cdn.jsdelivr.net/gh/revelryengine/renderer@v0.1.0-alpha/',
+        'revelryengine/renderer/'            : 'https://cdn.jsdelivr.net/gh/revelryengine/renderer@v0.1.1-alpha/',
         'lit'                                : 'https://cdn.skypack.dev/lit@2.0.2',
         'lit/'                               : 'https://cdn.skypack.dev/lit@2.0.2/',
     }
